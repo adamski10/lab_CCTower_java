@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7646820-59d7-4e25-9c5a-fa83da520da1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f2IfXBsc75micZbMbYjDW9Yq2g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GuestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeClanTower" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GuestTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GuestTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7646820-59d7-4e25-9c5a-fa83da520da1" name="Default Changelist" comment="" />
+      <created>1595409863015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595409863015</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1182" height="258" key="GridCell.Tab.0.bottom" timestamp="1595410505774">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1182" height="258" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595410505774" />
+    <state width="1182" height="258" key="GridCell.Tab.0.center" timestamp="1595410505774">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1182" height="258" key="GridCell.Tab.0.center/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595410505774" />
+    <state width="1182" height="258" key="GridCell.Tab.0.left" timestamp="1595410505773">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1182" height="258" key="GridCell.Tab.0.left/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595410505773" />
+    <state width="1182" height="258" key="GridCell.Tab.0.right" timestamp="1595410505774">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1182" height="258" key="GridCell.Tab.0.right/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595410505774" />
+  </component>
+</project>
