@@ -27,5 +27,22 @@ public class ConferenceRoom {
         }
     }
 
+    public Boolean checkForGuest(Guest guestToCheck){
+        for(Guest guest : this.bookedIn){
+            if(guest == guestToCheck) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public void removeGuest(Guest guest){
+        if (checkForGuest(guest) == true){
+            int index = this.bookedIn.indexOf(guest);
+            this.bookedIn.remove(index);
+
+        }
+    }
+
 
 }
