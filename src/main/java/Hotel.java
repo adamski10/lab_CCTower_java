@@ -48,5 +48,11 @@ public class Hotel {
         conferenceRoom.removeGuest(guest);
     }
 
+    public Booking bookBedroom(Bedroom bedroom, int numberOfNights){
+        Booking newBooking = new Booking(bedroom, numberOfNights);
+        bedroom.setStatusTrue();
+        return newBooking;
+    }
+
 
 }

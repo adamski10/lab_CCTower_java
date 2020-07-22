@@ -6,12 +6,14 @@ public class Bedroom {
     private int roomNumber;
     private ArrayList<Guest> checkedIn;
     private String type;
+    private Boolean status;
 
-    public Bedroom(int capacity, int roomNumber, String type){
+    public Bedroom(int capacity, int roomNumber, String type, Boolean status){
         this.capacity = capacity;
         this.roomNumber = roomNumber;
         this.checkedIn = new ArrayList<Guest>();
         this.type = type;
+        this.status = status;
     }
 
     public int getCapacity(){return capacity;}
@@ -47,6 +49,17 @@ public class Bedroom {
             this.checkedIn.remove(index);
 
         }
+    }
+    public Boolean getStatus(){
+        return this.status;
+    }
+
+    public void setStatusTrue(){
+        this.status = true;
+    }
+
+    public void setStatusFalse(){
+        this.status = false;
     }
 
 
