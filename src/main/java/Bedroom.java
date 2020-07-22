@@ -7,13 +7,15 @@ public class Bedroom {
     private ArrayList<Guest> checkedIn;
     private String type;
     private Boolean status;
+    private double costPerNight;
 
-    public Bedroom(int capacity, int roomNumber, String type, Boolean status){
+    public Bedroom(int capacity, int roomNumber, String type, Boolean status, double costPerNight){
         this.capacity = capacity;
         this.roomNumber = roomNumber;
         this.checkedIn = new ArrayList<Guest>();
         this.type = type;
         this.status = status;
+        this.costPerNight = costPerNight;
     }
 
     public int getCapacity(){return capacity;}
@@ -60,6 +62,10 @@ public class Bedroom {
 
     public void setStatusFalse(){
         this.status = false;
+    }
+
+    public double getCostPerNight(){
+        return this.costPerNight;
     }
 
 
