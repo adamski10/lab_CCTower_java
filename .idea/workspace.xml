@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7646820-59d7-4e25-9c5a-fa83da520da1" name="Default Changelist" comment="" />
+    <list default="true" id="d7646820-59d7-4e25-9c5a-fa83da520da1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bedroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConferenceRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BedroomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ConferenceRoomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +32,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1f2IfXBsc75micZbMbYjDW9Yq2g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,9 +40,28 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ConferenceRoomTest">
+    <configuration name="BedroomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeClanTower" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BedroomTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConferenceRoomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeClanTower" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConferenceRoomTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GuestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeClanTower" />
       <option name="PACKAGE_NAME" value="" />
@@ -43,6 +73,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ConferenceRoomTest" />
+        <item itemvalue="JUnit.BedroomTest" />
         <item itemvalue="JUnit.GuestTest" />
       </list>
     </recent_temporary>
@@ -61,21 +93,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1182" height="258" key="GridCell.Tab.0.bottom" timestamp="1595410505774">
+    <state width="1182" height="258" key="GridCell.Tab.0.bottom" timestamp="1595414167107">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1182" height="258" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595410505774" />
-    <state width="1182" height="258" key="GridCell.Tab.0.center" timestamp="1595410505774">
+    <state width="1182" height="258" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595414167107" />
+    <state width="1182" height="258" key="GridCell.Tab.0.center" timestamp="1595414167106">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1182" height="258" key="GridCell.Tab.0.center/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595410505774" />
-    <state width="1182" height="258" key="GridCell.Tab.0.left" timestamp="1595410505773">
+    <state width="1182" height="258" key="GridCell.Tab.0.center/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595414167106" />
+    <state width="1182" height="258" key="GridCell.Tab.0.left" timestamp="1595414167104">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1182" height="258" key="GridCell.Tab.0.left/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595410505773" />
-    <state width="1182" height="258" key="GridCell.Tab.0.right" timestamp="1595410505774">
+    <state width="1182" height="258" key="GridCell.Tab.0.left/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595414167104" />
+    <state width="1182" height="258" key="GridCell.Tab.0.right" timestamp="1595414167106">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1182" height="258" key="GridCell.Tab.0.right/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595410505774" />
+    <state width="1182" height="258" key="GridCell.Tab.0.right/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595414167106" />
   </component>
 </project>
